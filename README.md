@@ -1,1 +1,1 @@
-# Task-1-RULE-BASED-AI-CHATBOT-DECODELABS-
+FriendlyAI is a Python-based rule-based chatbot that responds to predefined user inputs using simple if-else logic. It demonstrates fundamental AI concepts such as decision-making, control flow, and conversational interaction, making it an ideal beginner project for learning Artificial Intelligence and chatbot development. 🤖✨
